@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Unkown</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="login_activity">Login</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login and Create Account Screen -->
+    <string name="text_dont_have_account">Don\'t have an account?</string>
+    <string name="text_already_have_account">Already have an account?</string>
+    <string name="button_create_account"><u>Sign Up</u></string>
+    <string name="button_sign_in"><u>Sign In</u></string>
+    <string name="button_signin_with_google">SIGN IN WITH GOOGLE</string>
+    <string name="button_signin_with_password">SIGN IN</string>
+    <string name="hint_enter_email">Enter your email</string>
+    <string name="hint_enter_username">Enter your name</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="image_view_logo_image">Logo Image</string>
+    <string name="title_activity_create_account">Create Account</string>
+
+    <string name="required_field">This field is required</string>
+    <string name="email_taken">This email is already taken</string>
+    <string name="invalid_email_address">Invalid email address</string>
+    <string name="password_length_error">Password length must be  at least 6 charchters</string>
+    <string name="username_length_error">Username length must be at least 3 charchters</string>
+
+    <!-- Instructions and Loading Text -->
+    <string name="progress_dialog_loading">Loading…</string>
+    <string name="progress_dialog_creating_user_with_firebase">Attempting to create account…</string>
+    <string name="progress_dialog_signin_user_with_firebase">Attempting to Sign In...</string>
+
+
+    <string name="error_email_message">There is no user record corresponding to this identifier. The user may have been deleted.</string>
+    <string name="print_error_email_message">Email is not correct</string>
+    <string name="error_password_message">The password is invalid or the user does not have a password.</string>
+    <string name="print_error_password_message">Password is not correct</string>
+
+    <!-- Google Client Id-->
+    <string name="client_id">572866677080-083gredhndn9vhcqm8qitr6lajs6mv3d.apps.googleusercontent.com</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+
+</resources>
